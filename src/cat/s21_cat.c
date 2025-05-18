@@ -180,3 +180,5 @@ int are_all_flags_zero(struct flags *f) {
 }
 
 void default_cat(int ch) { printf("%c", ch); }
+
+// :D
