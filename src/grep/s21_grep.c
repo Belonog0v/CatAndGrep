@@ -260,3 +260,5 @@ void grep_o(char *line, char *pattern, int count_files, char *filename,
   }
   if (flag) regfree(&regex);
 }
+
+// :D
